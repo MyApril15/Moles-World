@@ -20,6 +20,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Main/Login/Loading.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Main/Login/LoadingIcon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Main/Login/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2IPW0W2yPnJfgTqrR8UKB1LZyV3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670083482991</updated>
-      <workItem from="1670083490264" duration="7786000" />
+      <workItem from="1670083490264" duration="10695000" />
     </task>
     <servers />
   </component>
